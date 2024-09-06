@@ -1,4 +1,4 @@
-/* app shell CSS
+/* app shell CSS */
 :root {
   --primary: #31a9e1;
   --gray: #ececec;
@@ -6,7 +6,7 @@
   --dark: #222;
   --monoaki: #272822;
   --navbar-height: 50px;
-} */
+}
 
 body {
   margin: 0;
